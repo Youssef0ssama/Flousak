@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660516518523",
+    "project_id": "flousak-41666",
+    "storage_bucket": "flousak-41666.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660516518523:android:a30bffb610e2686981c0de",
+        "android_client_info": {
+          "package_name": "com.example.flousak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChn69j9zpumnt3A5gXS27AlzwAoIwlzzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
