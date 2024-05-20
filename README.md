@@ -16,10 +16,12 @@ Flousak is a comprehensive mobile application designed to help users manage thei
 
 ## Screenshots
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="screenshots/home.jpg" alt="Home Screen" width="100"/>
-    <img src="screenshots/history.jpg" alt="History Screen" width="100"/>
-    <img src="screenshots/stats.jpg" alt="Stats Screen" width="100"/>
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
+    <img src="screenshots/get started.jpg" alt="Get Started Screen" width="150"/>
+    <img src="screenshots/home.jpg" alt="Home Screen" width="150"/>
+    <img src="screenshots/history.jpg" alt="History Screen" width="150"/>
+    <img src="screenshots/adding.jpg" alt="Adding Screen" width="150"/>
+    <img src="screenshots/stats.jpg" alt="Stats Screen" width="150"/>
 </div>
 
 
