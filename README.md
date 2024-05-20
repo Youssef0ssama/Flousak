@@ -14,6 +14,12 @@ Flousak is a comprehensive mobile application designed to help users manage thei
 - **Budget Management:** Set budgets and receive alerts to prevent overspending.
 - **Intuitive UI:** User-friendly interface ensuring an engaging and efficient user experience.
 
+## Screenshots
+
+![Home Screen](screenshots/home.png)
+![History Screen](screenshots/history.png)
+![Stats Screen](screenshots/stats.png)
+
 ## Installation
 
 1. **Clone the repository:**
