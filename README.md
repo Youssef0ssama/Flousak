@@ -16,9 +16,9 @@ Flousak is a comprehensive mobile application designed to help users manage thei
 
 ## Screenshots
 
-![Home Screen](screenshots/home.png)
-![History Screen](screenshots/history.png)
-![Stats Screen](screenshots/stats.png)
+![Home Screen](screenshots/home.jpg)
+![History Screen](screenshots/history.jpg)
+![Stats Screen](screenshots/stats.jpg)
 
 ## Installation
 
